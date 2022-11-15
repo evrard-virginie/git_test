@@ -1,4 +1,6 @@
+def afficher(message):
+    print(message)
+
 
 if __name__ == '__main__':
-    print("test Github")
-    
+    afficher("test Github encore")
